@@ -5,18 +5,20 @@
 					"id":1,
 					"nama":"RITA SUPER MALL",
 					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"nomor_telp":"+62281628000",
 					"kordinat":"-7.417284, 109.244905",
+					"fasilitas":"",
+					"jam":"",
 					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
 				},
 
 				{
-					"id":2,
-					"nama":"The President",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
-					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
-					"gambar_url":"https://i.vimeocdn.com/video/723228188_1280x720.jpg",
+					"id":1,
+					"nama":"RITA SUPER MALL",
+					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
+					"kordinat":"-7.417284, 109.244905",
+					"fasilitas":"",
+					"jam":"",
+					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
 				}
 				
 			]
