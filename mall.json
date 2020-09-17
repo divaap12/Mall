@@ -4,21 +4,21 @@
 				{
 					"id":1,
 					"nama":"RITA SUPER MALL",
-					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"kordinat":"-7.417284, 109.244905",
-					"fasilitas":"",
-					"jam":"",
-					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
+					"alamat":"Jl. Jend. Soedirman No.296, Pereng, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
+					"kordinat":"-7.4255979,109.2303328",
+					"fasilitas":"-",
+					"jam":"11.00 - 20.00",
+					"gambar_url":"https://lh3.googleusercontent.com/OwEcwbrLoqx06X7z2BNu3Oup_TG8l6qpAlabXoYYfODLqRXHek_-sX1GiTWERextJQpAzHOUsNWSYDQt=w1080-h608-p-no-v0",
 				},
 
 				{
-					"id":1,
-					"nama":"RITA SUPER MALL",
-					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
-					"kordinat":"-7.417284, 109.244905",
-					"fasilitas":"",
-					"jam":"",
-					"gambar_url":"https://www.jejakpiknik.com/wp-content/uploads/2019/09/Karaoke-Jakarta-Selatan-Foto-By-diskotikkaraoke.com_-630x380.jpg",
+					"id":2,
+					"nama":"Moro Mall Purwokerto",
+					"alamat":"Jl. Situmpur, Kongsen, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"kordinat":"-7.4288446,109.2410061",
+					"fasilitas":"-",
+					"jam":"09.00 - 20.00",
+					"gambar_url":"https://i2.wp.com/alakota.com/wp-content/uploads/2020/06/20200626_170053-1.jpg?resize=520%2C397&ssl=1",
 				}
 				
 			]
