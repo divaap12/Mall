@@ -19,7 +19,27 @@
 					"fasilitas":"-",
 					"jam":"09.00 - 20.00",
 					"gambar_url":"https://i2.wp.com/alakota.com/wp-content/uploads/2020/06/20200626_170053-1.jpg?resize=520%2C397&ssl=1",
-				}
+				},
+				
+				{
+					"id":3,
+					"nama":"Duta Mode",
+					"alamat":"Ruko Ex Kodim No. 36-37-38, Jl. Jend. Soedirman Jl. Kauman Lama, Kauman Lama, Purwokerto Lor, Banyumas, Kabupaten Banyumas, Jawa Tengah 53114",
+					"kordinat":"-7.427522,109.2411953",
+					"fasilitas":"-",
+					"jam":"09.00 - 21.00",
+					"gambar_url":"https://photos.wikimapia.org/p/00/03/73/43/42_big.jpg",
+				},
+				
+				{
+					"id":4,
+					"nama":"RITA Pasaraya Isola Purwokerto",
+					"alamat":"Jl. Jend. Soedirman No.588, Kongsen, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"kordinat":"-7.4280846,109.2411204",
+					"fasilitas":"-",
+					"jam":"09.00 - 21.00",
+					"gambar_url":"https://assets.kompasiana.com/statics/crawl/5564ba110423bd8d508b456c.jpeg?t=o&v=760",
+				},
 				
 			]
 }
