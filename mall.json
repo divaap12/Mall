@@ -41,5 +41,15 @@
 					"gambar_url":"https://assets.kompasiana.com/statics/crawl/5564ba110423bd8d508b456c.jpeg?t=o&v=760",
 				},
 				
+				{
+					"id":5,
+					"nama":"Matahari Department Store Purwokerto",
+					"alamat":"Pertokoan Kebondalem, Jl. Jendral Suprapto, Kebondalem, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53114",
+					"kordinat":"-7.4280846,109.2411204",
+					"fasilitas":"-",
+					"jam":"09.30 - 21.00",
+					"gambar_url":"https://1.bp.blogspot.com/-lN1sKr_rd1g/XW2HUpaSWSI/AAAAAAAABBs/rw_WIHly0is02fcTSX6y9deLdeJpoVNwACLcBGAs/s1600/matahari%2Bkebondalem%2Bpurwokerto.jpg",
+				},
+				
 			]
 }
